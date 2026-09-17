@@ -1,16 +1,196 @@
-## Hi there 👋
+<h1 align="center">Sakshi Bhavsar</h1>
 
-<!--
-**SakshiBhavsar/SakshiBhavsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Software Engineer | Backend, Distributed Systems, Data Platforms, AI/ML</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakshi-bhavsar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sakshi.bhavsar15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-C5221F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/NYU-MS_Computer_Engineering-57068C?style=flat-square" alt="NYU"/>
+  <img src="https://img.shields.io/badge/Backend-Distributed_Systems-1A1815?style=flat-square" alt="Backend and Distributed Systems"/>
+  <img src="https://img.shields.io/badge/AI%2FML-Production_Systems-2EA44F?style=flat-square" alt="AI and ML"/>
+  <img src="https://img.shields.io/badge/Open_to-Software_Engineering_Roles-3775A9?style=flat-square" alt="Open to Software Engineering Roles"/>
+</p>
+
+About
+
+I am a Software Engineer focused on building reliable backend systems, distributed data platforms, and production AI/ML infrastructure.
+
+My experience spans Oracle, GeneGenius, and Bajaj Finserv, where I have worked on enterprise ETL platforms, distributed microservices, financial transaction systems, and AI-native genomic interpretation. I enjoy working at the intersection of software engineering and applied machine learning, particularly where reliability, scalability, observability, and correctness matter.
+
+At GeneGenius, I work on an AI-native genomic interpretation platform designed to transform complex clinical variant analysis into evidence-traceable insights in minutes. I own the backend and infrastructure for the Therapeutic Synthesis workflow and contribute to infrastructure supporting eight ML-powered genomics modules.
+
+At Oracle, I engineered backend services for enterprise-scale ETL workflow execution and job orchestration. I designed a self-healing recovery mechanism for distributed data pipelines that reduced pipeline stall time by 95% and built configurable platform capabilities that improved job success rates.
+
+Earlier, at Bajaj Finserv, I engineered secure UPI transaction services and collaborated across six teams to integrate interoperability services with payment service providers.
+
+I am particularly interested in problems involving backend engineering, distributed systems, cloud infrastructure, data platforms, reliability, and production AI/ML.
+
+Professional Experience
+
+GeneGenius
+
+Machine Learning Engineer | New York City, NY | June 2026 - Present
+
+Lead development of an AI-native genomic interpretation platform that accelerates clinical variant analysis from workflows requiring years of specialist expertise to evidence-traceable insights generated in 5 minutes or less.
+
+Build and validate infrastructure supporting 8 ML-powered genomics modules, including structural impact prediction, RNA splicing analysis, expression outlier detection, phenotype integration, therapeutic recommendation, and functional variant interpretation.
+
+Architect scalable backend, MLOps, testing, observability, orchestration, and security infrastructure for clinician-facing and regulatory-grade genomic workflows.
+
+Develop automated regression, integration, and end-to-end validation pipelines to improve reliability, deterministic behavior, and evidence traceability.
+
+Oracle
+
+Member of Technical Staff | Redwood City, CA | January 2026 - June 2026
+
+Engineered backend services supporting enterprise-scale ETL workflow execution and job orchestration across distributed microservices.
+
+Designed and implemented a configurable self-healing recovery mechanism that monitored non-terminal stuck jobs, handled system-triggered and manual cancellations, and reduced pipeline stall time by 95%.
+
+Built an object model override framework supporting full and partial metadata overrides, improving job success rates by approximately 20% while increasing customization flexibility.
+
+Developed refresh diagnostics and KPI observability enhancements that improved root-cause visibility and reduced latency by 10+ hours for delayed production jobs.
+
+Oracle
+
+Software Engineer Intern | Redwood City, CA | May 2025 - August 2025
+
+Developed event-based job summary APIs for pipeline and system KPI metrics, reducing maintenance time from 8 hours to 2 hours and improving operational efficiency by 75%.
+
+Designed services for pipeline orchestration and dashboard-driven insights across multi-tenant data pipelines supporting 1,000+ enterprise customers.
+
+Worked with Apache Spark, Scala, and Oracle Autonomous Data Warehouse on large-scale data extraction, transformation, and ingestion workflows.
+
+Applied GenAI tools including OpenAI Codex and GitHub Copilot for backend design exploration, code review, root-cause analysis, and development acceleration.
+
+Bajaj Finserv
+
+Software Development Engineer Intern | Pune, India | January 2024 - June 2024
+
+Engineered a secure UPI transaction system with 7 REST APIs, implementing encryption and encoding workflows for authorized payment access.
+
+Collaborated with 6 cross-functional teams during UPI Switch rollout and integrated interoperability services with payment service providers including Mindgate and Juspay.
+
+Built services using Java and Spring Boot with a focus on secure and reliable payment processing.
+
+Selected Engineering Work
+
+Agentic Incident-Response Copilot
+
+FastAPI, LangGraph, pgvector, Redis, OpenTelemetry
+
+An agentic incident-response control plane for diagnosing and remediating failures across distributed systems.
+
+Built RAG over runbooks and 10K+ historical incidents for root-cause diagnosis and typed remediation.
+
+Implemented confidence- and risk-aware retry, restart, and rollback workflows, reducing simulated MTTR by 70% across 100+ injected failure scenarios.
+
+Added OpenTelemetry traces, structured incident timelines, tool-call logging, and per-incident latency and token-cost metrics.
+
+Achieved 90% correct root-cause classification on a regression suite of synthetic production failures.
+
+SparseBERT
+
+PyTorch, Hugging Face, NVIDIA Nsight, GLUE, CUDA
+
+A compressed transformer-based model optimized for efficient inference.
+
+Applied progressive and structured pruning to achieve a 37% reduction in model size and 1.16x inference speedup with less than 1% accuracy degradation across GLUE tasks.
+
+Implemented 2:4 structured sparsity, attention-head pruning, and feed-forward network neuron pruning.
+
+Reduced inference costs by 40% and training overhead by 15% through sparsity-aware optimization and fine-tuning pipelines.
+
+InQuizitive
+
+Java, Spring Boot, Microservices, REST APIs, MySQL
+
+A modular quiz platform designed for AI-powered personalized learning.
+
+Decomposed the platform into 8 independent microservices to improve modularity and scalability.
+
+Integrated AI-powered quiz recommendations and designed the architecture for future RAG and LLM-based learning workflows.
+
+Improved integration efficiency by 30% through service decomposition and modular design.
+
+Technical Expertise
+
+Languages
+
+Java Python C++ SQL JavaScript
+
+Backend and Distributed Systems
+
+Spring Boot Spring JPA REST APIs Microservices Kafka JUnit
+
+Cloud and Infrastructure
+
+AWS Azure Docker CI/CD Linux Bash Git
+
+Databases and Data Platforms
+
+Oracle DB PostgreSQL MySQL MongoDB Redis PL/SQL NoSQL
+
+AI and Machine Learning
+
+PyTorch TensorFlow Hugging Face RAG LLM Applications MLOps Model Evaluation
+
+Engineering Foundations
+
+Data Structures & Algorithms Operating Systems Computer Networks Databases Object-Oriented Design
+
+Education
+
+New York University, Tandon School of Engineering
+
+M.S. in Computer Engineering | September 2024 - January 2026
+CGPA: 3.74 / 4.0
+
+Pune Institute of Computer Technology, Pune University
+
+B.E. in Information Technology | July 2020 - May 2024
+CGPA: 8.98 / 10
+
+Publications and Certifications
+
+Image based Sudoku Solver using Applied Recursive Backtracking, 2023 2nd International Conference on Futuristic Technologies, IEEE.
+
+DeepCNN AD Leveraging U Net for Enhanced Alzheimer's Disease Detection, International Journal of Advance and Innovative Research.
+
+Java Certified Foundations Associate, Oracle.
+
+Supervised Machine Learning: Regression and Classification, Stanford University.
+
+Honeywell Leadership Challenge Training Program, U.S. Space and Rocket Center.
+
+What I Build
+
+I am interested in engineering problems where strong software fundamentals and applied AI come together:
+
+Reliable backend services and distributed systems
+
+Data-intensive and ETL platforms
+
+Cloud-native infrastructure and MLOps
+
+AI/ML systems with measurable validation and observability
+
+Production systems where correctness, reliability, and scalability are first-class requirements
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakshi-bhavsar/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="mailto:sakshi.bhavsar15@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-C5221F?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
+  </a>
+</p>
