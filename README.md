@@ -38,7 +38,7 @@ Professional Experience
 
 GeneGenius
 
-Machine Learning Engineer | New York City, NY | June 2026 - Present
+Machine Learning Engineer | New York City, NY |
 
 Lead development of an AI-native genomic interpretation platform that accelerates clinical variant analysis from workflows requiring years of specialist expertise to evidence-traceable insights generated in 5 minutes or less.
 
@@ -50,7 +50,7 @@ Develop automated regression, integration, and end-to-end validation pipelines t
 
 Oracle
 
-Member of Technical Staff | Redwood City, CA | January 2026 - June 2026
+Member of Technical Staff | Redwood City, CA |
 
 Engineered backend services supporting enterprise-scale ETL workflow execution and job orchestration across distributed microservices.
 
@@ -62,7 +62,7 @@ Developed refresh diagnostics and KPI observability enhancements that improved r
 
 Oracle
 
-Software Engineer Intern | Redwood City, CA | May 2025 - August 2025
+Software Engineer Intern | Redwood City, CA |
 
 Developed event-based job summary APIs for pipeline and system KPI metrics, reducing maintenance time from 8 hours to 2 hours and improving operational efficiency by 75%.
 
@@ -74,7 +74,7 @@ Applied GenAI tools including OpenAI Codex and GitHub Copilot for backend design
 
 Bajaj Finserv
 
-Software Development Engineer Intern | Pune, India | January 2024 - June 2024
+Software Development Engineer Intern | Pune, India |
 
 Engineered a secure UPI transaction system with 7 REST APIs, implementing encryption and encoding workflows for authorized payment access.
 
