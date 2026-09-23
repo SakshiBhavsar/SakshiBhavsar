@@ -113,42 +113,16 @@ Built services using Java and Spring Boot with a focus on secure and reliable pa
 
 ---
 Agentic Incident-Response Copilot
-
 FastAPI, LangGraph, pgvector, Redis, OpenTelemetry
 
-An agentic incident-response control plane for diagnosing and remediating failures across distributed systems.
-
-Built RAG over runbooks and 10K+ historical incidents for root-cause diagnosis and typed remediation.
-
-Implemented confidence- and risk-aware retry, restart, and rollback workflows, reducing simulated MTTR by 70% across 100+ injected failure scenarios.
-
-Added OpenTelemetry traces, structured incident timelines, tool-call logging, and per-incident latency and token-cost metrics.
-
-Achieved 90% correct root-cause classification on a regression suite of synthetic production failures.
 
 SparseBERT
-
 PyTorch, Hugging Face, NVIDIA Nsight, GLUE, CUDA
 
-A compressed transformer-based model optimized for efficient inference.
-
-Applied progressive and structured pruning to achieve a 37% reduction in model size and 1.16x inference speedup with less than 1% accuracy degradation across GLUE tasks.
-
-Implemented 2:4 structured sparsity, attention-head pruning, and feed-forward network neuron pruning.
-
-Reduced inference costs by 40% and training overhead by 15% through sparsity-aware optimization and fine-tuning pipelines.
 
 InQuizitive
-
 Java, Spring Boot, Microservices, REST APIs, MySQL
 
-A modular quiz platform designed for AI-powered personalized learning.
-
-Decomposed the platform into 8 independent microservices to improve modularity and scalability.
-
-Integrated AI-powered quiz recommendations and designed the architecture for future RAG and LLM-based learning workflows.
-
-Improved integration efficiency by 30% through service decomposition and modular design.
 
 Technical Expertise
 
@@ -180,12 +154,12 @@ Education
 
 New York University, Tandon School of Engineering
 
-M.S. in Computer Engineering | September 2024 - January 2026
+M.S. in Computer Engineering | September 2024 - January 2026,
 CGPA: 3.74 / 4.0
 
 Pune Institute of Computer Technology, Pune University
 
-B.E. in Information Technology | July 2020 - May 2024
+B.E. in Information Technology | July 2020 - May 2024,
 CGPA: 8.98 / 10
 
 Publications and Certifications
