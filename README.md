@@ -112,15 +112,15 @@ Built services using Java and Spring Boot with a focus on secure and reliable pa
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
-Agentic Incident-Response Copilot
+Agentic Incident-Response Copilot:  
 FastAPI, LangGraph, pgvector, Redis, OpenTelemetry
 
 
-SparseBERT
+SparseBERT:  
 PyTorch, Hugging Face, NVIDIA Nsight, GLUE, CUDA
 
 
-InQuizitive
+InQuizitive:  
 Java, Spring Boot, Microservices, REST APIs, MySQL
 
 
@@ -153,13 +153,11 @@ Data Structures & Algorithms Operating Systems Computer Networks Databases Objec
 Education
 
 New York University, Tandon School of Engineering
-
-M.S. in Computer Engineering | September 2024 - January 2026,
+M.S. in Computer Engineering | September 2024 - January 2026, 
 CGPA: 3.74 / 4.0
 
 Pune Institute of Computer Technology, Pune University
-
-B.E. in Information Technology | July 2020 - May 2024,
+B.E. in Information Technology | July 2020 - May 2024, 
 CGPA: 8.98 / 10
 
 Publications and Certifications
