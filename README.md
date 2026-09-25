@@ -22,17 +22,11 @@
 
 About
 
-I am a Software Engineer focused on building reliable backend systems, distributed data platforms, and production AI/ML infrastructure.
+I’m a Software Engineer focused on **backend systems, distributed systems, data platforms, and production AI/ML**.
 
-My experience spans Oracle, GeneGenius, and Bajaj Finserv, where I have worked on enterprise ETL platforms, distributed microservices, financial transaction systems, and AI-native genomic interpretation. I enjoy working at the intersection of software engineering and applied machine learning, particularly where reliability, scalability, observability, and correctness matter.
+I’ve built enterprise-scale systems at **Oracle**, AI-native genomic infrastructure at **GeneGenius**, and secure payment services at **Bajaj Finserv**. My work spans **Java, Python, Spring Boot, FastAPI, microservices, cloud infrastructure, data pipelines, and ML systems**, with a strong focus on **reliability, scalability, and observability**.
 
-At GeneGenius, I work on an AI-native genomic interpretation platform designed to transform complex clinical variant analysis into evidence-traceable insights in minutes. I own the backend and infrastructure for the Therapeutic Synthesis workflow and contribute to infrastructure supporting eight ML-powered genomics modules.
-
-At Oracle, I engineered backend services for enterprise-scale ETL workflow execution and job orchestration. I designed a self-healing recovery mechanism for distributed data pipelines that reduced pipeline stall time by 95% and built configurable platform capabilities that improved job success rates.
-
-Earlier, at Bajaj Finserv, I engineered secure UPI transaction services and collaborated across six teams to integrate interoperability services with payment service providers.
-
-I am particularly interested in problems involving backend engineering, distributed systems, cloud infrastructure, data platforms, reliability, and production AI/ML.
+I enjoy building systems that are **fast, reliable, and production-ready**.
 
 Professional Experience
 
