@@ -1,190 +1,38 @@
-<h1 align="center">Sakshi Bhavsar</h1>
-
-<p align="center">
-  <b>Software Engineer | Backend, Distributed Systems, Data Platforms, AI/ML</b>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sakshi-bhavsar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sakshi.bhavsar15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-C5221F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NYU-MS_Computer_Engineering-57068C?style=flat-square" alt="NYU"/>
-  <img src="https://img.shields.io/badge/Backend-Distributed_Systems-1A1815?style=flat-square" alt="Backend and Distributed Systems"/>
-  <img src="https://img.shields.io/badge/AI%2FML-Production_Systems-2EA44F?style=flat-square" alt="AI and ML"/>
-  <img src="https://img.shields.io/badge/Open_to-Software_Engineering_Roles-3775A9?style=flat-square" alt="Open to Software Engineering Roles"/>
-</p>
-
-About
-
-I’m a Software Engineer focused on **backend systems, distributed systems, data platforms, and production AI/ML**.
-
-I’ve built enterprise-scale systems at **Oracle**, AI-native genomic infrastructure at **GeneGenius**, and secure payment services at **Bajaj Finserv**. My work spans **Java, Python, Spring Boot, FastAPI, microservices, cloud infrastructure, data pipelines, and ML systems**, with a strong focus on **reliability, scalability, and observability**.
-
-I enjoy building systems that are **fast, reliable, and production-ready**.
-
-Professional Experience
-
-GeneGenius
-
-Machine Learning Engineer | New York City, NY |
-
-Lead development of an AI-native genomic interpretation platform that accelerates clinical variant analysis from workflows requiring years of specialist expertise to evidence-traceable insights generated in 5 minutes or less.
-
-Build and validate infrastructure supporting 8 ML-powered genomics modules, including structural impact prediction, RNA splicing analysis, expression outlier detection, phenotype integration, therapeutic recommendation, and functional variant interpretation.
-
-Architect scalable backend, MLOps, testing, observability, orchestration, and security infrastructure for clinician-facing and regulatory-grade genomic workflows.
-
-Develop automated regression, integration, and end-to-end validation pipelines to improve reliability, deterministic behavior, and evidence traceability.
-
-Oracle
-
-Member of Technical Staff | Redwood City, CA |
-
-Engineered backend services supporting enterprise-scale ETL workflow execution and job orchestration across distributed microservices.
-
-Designed and implemented a configurable self-healing recovery mechanism that monitored non-terminal stuck jobs, handled system-triggered and manual cancellations, and reduced pipeline stall time by 95%.
-
-Built an object model override framework supporting full and partial metadata overrides, improving job success rates by approximately 20% while increasing customization flexibility.
-
-Developed refresh diagnostics and KPI observability enhancements that improved root-cause visibility and reduced latency by 10+ hours for delayed production jobs.
-
-Oracle
-
-Software Engineer Intern | Redwood City, CA |
-
-Developed event-based job summary APIs for pipeline and system KPI metrics, reducing maintenance time from 8 hours to 2 hours and improving operational efficiency by 75%.
-
-Designed services for pipeline orchestration and dashboard-driven insights across multi-tenant data pipelines supporting 1,000+ enterprise customers.
-
-Worked with Apache Spark, Scala, and Oracle Autonomous Data Warehouse on large-scale data extraction, transformation, and ingestion workflows.
-
-Applied GenAI tools including OpenAI Codex and GitHub Copilot for backend design exploration, code review, root-cause analysis, and development acceleration.
-
-Bajaj Finserv
-
-Software Development Engineer Intern | Pune, India |
-
-Engineered a secure UPI transaction system with 7 REST APIs, implementing encryption and encoding workflows for authorized payment access.
-
-Collaborated with 6 cross-functional teams during UPI Switch rollout and integrated interoperability services with payment service providers including Mindgate and Juspay.
-
-Built services using Java and Spring Boot with a focus on secure and reliable payment processing.
-
-## Toolkit
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Developement**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-**Data & Infrastructure**
-
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
----
-Agentic Incident-Response Copilot:  
-FastAPI, LangGraph, pgvector, Redis, OpenTelemetry
-
-
-SparseBERT:  
-PyTorch, Hugging Face, NVIDIA Nsight, GLUE, CUDA
-
-
-InQuizitive:  
-Java, Spring Boot, Microservices, REST APIs, MySQL
-
-
-Technical Expertise
-
-Languages
-
-Java Python C++ SQL JavaScript
-
-Backend and Distributed Systems
-
-Spring Boot Spring JPA REST APIs Microservices Kafka JUnit
-
-Cloud and Infrastructure
-
-AWS Azure Docker CI/CD Linux Bash Git
-
-Databases and Data Platforms
-
-Oracle DB PostgreSQL MySQL MongoDB Redis PL/SQL NoSQL
-
-AI and Machine Learning
-
-PyTorch TensorFlow Hugging Face RAG LLM Applications MLOps Model Evaluation
-
-Engineering Foundations
-
-Data Structures & Algorithms Operating Systems Computer Networks Databases Object-Oriented Design
-
-Education
-
-New York University, Tandon School of Engineering
-M.S. in Computer Engineering | September 2024 - January 2026, 
-CGPA: 3.74 / 4.0
-
-Pune Institute of Computer Technology, Pune University
-B.E. in Information Technology | July 2020 - May 2024, 
-CGPA: 8.98 / 10
-
-Publications and Certifications
-
-Image based Sudoku Solver using Applied Recursive Backtracking, 2023 2nd International Conference on Futuristic Technologies, IEEE.
-
-DeepCNN AD Leveraging U Net for Enhanced Alzheimer's Disease Detection, International Journal of Advance and Innovative Research.
-
-Java Certified Foundations Associate, Oracle.
-
-Supervised Machine Learning: Regression and Classification, Stanford University.
-
-Honeywell Leadership Challenge Training Program, U.S. Space and Rocket Center.
-
-What I Build
-
-I am interested in engineering problems where strong software fundamentals and applied AI come together:
-
-Reliable backend services and distributed systems
-
-Data-intensive and ETL platforms
-
-Cloud-native infrastructure and MLOps
-
-AI/ML systems with measurable validation and observability
-
-Production systems where correctness, reliability, and scalability are first-class requirements
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sakshi-bhavsar/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-  <a href="mailto:sakshi.bhavsar15@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-C5221F?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
-  </a>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:57068C,100:0A66C2&height=160&section=header&text=Sakshi%20Bhavsar&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Backend%20%C2%B7%20Distributed%20Systems%20%C2%B7%20AI%2FML&descSize=15&descAlignY=62" alt="Sakshi Bhavsar"/>
+
+<img src="https://img.shields.io/badge/NYU-MS_Computer_Engineering-57068C?style=flat-square" alt="NYU"/>
+<img src="https://img.shields.io/badge/Ex--Oracle-MTS-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
+<img src="https://img.shields.io/badge/Now-ML_Engineer_@_GeneGenius-2EA44F?style=flat-square" alt="GeneGenius"/>
+<img src="https://img.shields.io/badge/Open_to-SWE_Roles-3775A9?style=flat-square" alt="Open to work"/>
+
+</div>
+
+## 💫 About
+- 🧬 ML Engineer at **GeneGenius**, building an AI-native genomics platform: 5-7 years of specialist analysis → evidence-traceable insights in **under 5 minutes**
+- 🏢 Ex-**Oracle** engineer: ETL orchestration and self-healing pipelines for **1,000+ enterprise customers**
+- 🎓 MS Computer Engineering, NYU Tandon (3.74/4.0)
+- 🛠️ I build backends that are fast, reliable, and observable
+
+## 🚀 Impact
+- **95%** less pipeline stall time with a self-healing recovery mechanism
+- **20%** higher job success rate via a configurable override framework
+- **10+ hrs** lower latency on delayed production jobs through KPI observability
+- **70%** lower simulated MTTR in an agentic incident-response copilot
+
+## 🧪 Projects
+- 🤖 **Agentic Incident-Response Copilot**: RAG + typed remediation, 90% root-cause accuracy · `FastAPI` `LangGraph` `pgvector` `OpenTelemetry`
+- ⚡ **SparseBERT**: 37% smaller, 1.16x faster, <1% accuracy loss on GLUE · `PyTorch` `CUDA` `Hugging Face`
+
+## 💻 Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+## 🌐 Connect
+<a href="https://www.linkedin.com/in/sakshi-bhavsar/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="32" alt="LinkedIn"/></a>
+<a href="mailto:sakshi.bhavsar15@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="32" alt="Email"/></a>
+<!-- Add later: portfolio / resume buttons -->
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=SakshiBhavsar&label=Profile+Views&color=0A66C2&style=flat-square" alt="Profile views"/>
+</div>
