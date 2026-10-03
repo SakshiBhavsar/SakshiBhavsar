@@ -29,6 +29,3 @@
 <a href="mailto:sakshibhavsar1501@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="32" alt="Email"/></a>
 <!-- Add later: portfolio / resume buttons -->
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=SakshiBhavsar&label=Profile+Views&color=0A66C2&style=flat-square" alt="Profile views"/>
-</div>
