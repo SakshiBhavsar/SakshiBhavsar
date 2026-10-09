@@ -12,7 +12,8 @@
 ## 💫 About
 - 🧬 ML Engineer at **GeneGenius**, building an AI-native genomics platform: 5-7 years of specialist analysis → evidence-traceable insights in **under 5 minutes**
 - 🏢 Ex-**Oracle** engineer: ETL orchestration and self-healing pipelines for **1,000+ enterprise customers**
-- 🎓 MS Computer Engineering, NYU Tandon (3.74/4.0)
+- 🎓 MS Computer Engineering, New York University (3.74/4.0)
+- 🎓 BE Information Technology, Pune Institute of Computer Technology (9.0/10.0)
 - 🛠️ I build backends that are fast, reliable, and observable
 
 ## 🚀 Impact
